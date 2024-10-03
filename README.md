@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harmannanda1234
-- 👀 I’m interested in cooking new stuff
-- 🌱 I’m currently learning c++ , MERN stack
+- 👀Devops engineer in making 
+- 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate and make connections
 - 📫 How to reach me hxrmn03@gmail.com
   
