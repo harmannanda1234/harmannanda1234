@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harmannanda1234
 - 👀Devops engineer in making 
-- 🌱 I’m currently learning linux
+- 🌱 I’m currently transitioning into devops
 - 💞️ I’m looking to collaborate and make connections
 - 📫 How to reach me hxrmn03@gmail.com
   
