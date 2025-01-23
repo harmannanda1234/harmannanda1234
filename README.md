@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @harmannanda1234
 - 👀Devops engineer in making 
-- 🌱 I’m currently transitioning into devops
+- 🌱 I’m currently a backend dev transitioning into devops
 - 💞️ I’m looking to collaborate and make connections
 - 📫 How to reach me hxrmn03@gmail.com
   
+
 
 <!---
 harmannanda1234/harmannanda1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
