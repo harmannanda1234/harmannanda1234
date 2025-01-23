@@ -1,14 +1,9 @@
 # Harmanjot Singh Nanda 🚀
 
-![DevOps Engineer Banner](https://user-images.githubusercontent.com/abc1234/devops-banner.png)
-
 ### 🌱 **Aspiring DevOps Engineer | Backend Developer | Full-Stack Enthusiast**  
 **“Automate Everything, Embrace the Cloud, Build Scalable Systems”**
 
 ---
-
-![DevOps Tools](https://user-images.githubusercontent.com/abc1234/devops-tools.png)
-
 ### 💡 **About Me**
 - 🌍 I'm currently transitioning from backend development to DevOps.
 - 🎯 Passionate about automation, scalable infrastructure, and optimizing workflows.
