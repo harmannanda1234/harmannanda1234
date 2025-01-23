@@ -64,7 +64,7 @@
 
 ### 🤝 **Let's Connect**
 - **GitHub**: [harmannanda1234](https://github.com/harmannanda1234)
-- **LinkedIn**: [Harmanjot Singh Nanda](https://www.linkedin.com/in/harmanjot-singh-nanda-2b2138256/)
+- **LinkedIn**: [Harmanjot Singh Nanda](https://www.linkedin.com/in/harmanjot-singh-nanda-80794a292/)
 - **Email**: hxrmn03@gmail.com
 
 ---
